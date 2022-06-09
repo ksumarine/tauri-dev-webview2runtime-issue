@@ -29,7 +29,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.github.tauri-dev-webview2runtime-issue",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
@@ -44,7 +44,8 @@
       "windows": {
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
-        "timestampUrl": ""
+        "timestampUrl": "",
+        "webviewFixedRuntimePath": "webview2/Microsoft.WebView2.FixedVersionRuntime.102.0.1245.33.x64/"
       }
     },
     "security": {
